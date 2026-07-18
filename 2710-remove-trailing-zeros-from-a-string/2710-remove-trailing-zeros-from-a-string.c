@@ -1,0 +1,11 @@
+char* removeTrailingZeros(char* num) {
+    int n=strlen(num);
+    for(int i=n-1;i>=0;i--){
+        if(num[i]!='0'){
+            num[i+1]='\0';
+            break;
+        }
+    }
+    
+    return num;
+}
