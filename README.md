@@ -11,4 +11,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2413-smallest-even-multiple](https://github.com/AH-Jaber/LeetCode/tree/master/2413-smallest-even-multiple) |
+## Array
+|  |
+| ------- |
+| [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/AH-Jaber/LeetCode/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/AH-Jaber/LeetCode/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
 <!---LeetCode Topics End-->
