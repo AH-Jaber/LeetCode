@@ -8,15 +8,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/AH-Jaber/LeetCode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [2413-smallest-even-multiple](https://github.com/AH-Jaber/LeetCode/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/AH-Jaber/LeetCode/tree/master/2469-convert-the-temperature) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/AH-Jaber/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
 |  |
 | ------- |
 | [2413-smallest-even-multiple](https://github.com/AH-Jaber/LeetCode/tree/master/2413-smallest-even-multiple) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/AH-Jaber/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Array
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/AH-Jaber/LeetCode/tree/master/0027-remove-element) |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/AH-Jaber/LeetCode/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/AH-Jaber/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -29,4 +32,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/AH-Jaber/LeetCode/tree/master/0027-remove-element) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/AH-Jaber/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Sorting
+|  |
+| ------- |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/AH-Jaber/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Simulation
+|  |
+| ------- |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/AH-Jaber/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->
