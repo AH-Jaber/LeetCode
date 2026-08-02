@@ -34,11 +34,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/AH-Jaber/LeetCode/tree/master/0344-reverse-string) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/AH-Jaber/LeetCode/tree/master/2710-remove-trailing-zeros-from-a-string) |
 ## Two Pointers
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/AH-Jaber/LeetCode/tree/master/0027-remove-element) |
+| [0344-reverse-string](https://github.com/AH-Jaber/LeetCode/tree/master/0344-reverse-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AH-Jaber/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
 |  |
