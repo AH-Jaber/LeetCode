@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/AH-Jaber/LeetCode/tree/master/0027-remove-element) |
 | [0119-pascals-triangle-ii](https://github.com/AH-Jaber/LeetCode/tree/master/0119-pascals-triangle-ii) |
+| [0674-longest-continuous-increasing-subsequence](https://github.com/AH-Jaber/LeetCode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/AH-Jaber/LeetCode/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
 | [3701-compute-alternating-sum](https://github.com/AH-Jaber/LeetCode/tree/master/3701-compute-alternating-sum) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AH-Jaber/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
