@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/AH-Jaber/LeetCode/tree/master/0007-reverse-integer) |
+| [0048-rotate-image](https://github.com/AH-Jaber/LeetCode/tree/master/0048-rotate-image) |
 | [0204-count-primes](https://github.com/AH-Jaber/LeetCode/tree/master/0204-count-primes) |
 | [0292-nim-game](https://github.com/AH-Jaber/LeetCode/tree/master/0292-nim-game) |
 | [0877-stone-game](https://github.com/AH-Jaber/LeetCode/tree/master/0877-stone-game) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/AH-Jaber/LeetCode/tree/master/0027-remove-element) |
+| [0048-rotate-image](https://github.com/AH-Jaber/LeetCode/tree/master/0048-rotate-image) |
 | [0118-pascals-triangle](https://github.com/AH-Jaber/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/AH-Jaber/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0204-count-primes](https://github.com/AH-Jaber/LeetCode/tree/master/0204-count-primes) |
@@ -99,4 +101,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2427-number-of-common-factors](https://github.com/AH-Jaber/LeetCode/tree/master/2427-number-of-common-factors) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/AH-Jaber/LeetCode/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
