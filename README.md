@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/AH-Jaber/LeetCode/tree/master/0877-stone-game) |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/AH-Jaber/LeetCode/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
 | [3701-compute-alternating-sum](https://github.com/AH-Jaber/LeetCode/tree/master/3701-compute-alternating-sum) |
+| [3731-find-missing-elements](https://github.com/AH-Jaber/LeetCode/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AH-Jaber/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Bit Manipulation
 |  |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [3731-find-missing-elements](https://github.com/AH-Jaber/LeetCode/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AH-Jaber/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
 |  |
@@ -105,4 +107,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/AH-Jaber/LeetCode/tree/master/0048-rotate-image) |
+## Hash Table
+|  |
+| ------- |
+| [3731-find-missing-elements](https://github.com/AH-Jaber/LeetCode/tree/master/3731-find-missing-elements) |
 <!---LeetCode Topics End-->
