@@ -1,23 +1,14 @@
 int removeDuplicates(int* nums, int n) {
-    int i,j,k=n;
-
-    for(i=1,j=0;i<n;i++){
-        if(nums[i]==nums[j]){
-            nums[i]=999;
-            k--;
-        } else {
-            j=i;
-        }
+    if (n == 0) {
+        return 0;
     }
 
-    for(i=0,j=0;i<n;i++){
-        if(nums[i]!=999){
-            int temp=nums[i];
-            nums[i]=nums[j];
-            nums[j]=temp;
+    int j = 0;
+    for (int i = 1; i < n; i++) {
+        if (nums[j] != nums[i]) {
             j++;
+            nums[j] = nums[i];
         }
     }
-
-    return k;
+    return j + 1;
 }
