@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/AH-Jaber/LeetCode/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/AH-Jaber/LeetCode/tree/master/0048-rotate-image) |
+| [0168-excel-sheet-column-title](https://github.com/AH-Jaber/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/AH-Jaber/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0204-count-primes](https://github.com/AH-Jaber/LeetCode/tree/master/0204-count-primes) |
 | [0292-nim-game](https://github.com/AH-Jaber/LeetCode/tree/master/0292-nim-game) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0168-excel-sheet-column-title](https://github.com/AH-Jaber/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/AH-Jaber/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0344-reverse-string](https://github.com/AH-Jaber/LeetCode/tree/master/0344-reverse-string) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/AH-Jaber/LeetCode/tree/master/2710-remove-trailing-zeros-from-a-string) |
