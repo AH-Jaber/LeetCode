@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2427-number-of-common-factors](https://github.com/AH-Jaber/LeetCode/tree/master/2427-number-of-common-factors) |
 | [2469-convert-the-temperature](https://github.com/AH-Jaber/LeetCode/tree/master/2469-convert-the-temperature) |
 | [2582-pass-the-pillow](https://github.com/AH-Jaber/LeetCode/tree/master/2582-pass-the-pillow) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AH-Jaber/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AH-Jaber/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
 |  |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0344-reverse-string](https://github.com/AH-Jaber/LeetCode/tree/master/0344-reverse-string) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/AH-Jaber/LeetCode/tree/master/2710-remove-trailing-zeros-from-a-string) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AH-Jaber/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -115,4 +117,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/AH-Jaber/LeetCode/tree/master/0001-two-sum) |
 | [3731-find-missing-elements](https://github.com/AH-Jaber/LeetCode/tree/master/3731-find-missing-elements) |
+## Greedy
+|  |
+| ------- |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AH-Jaber/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 <!---LeetCode Topics End-->
