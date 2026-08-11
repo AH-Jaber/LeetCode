@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2413-smallest-even-multiple](https://github.com/AH-Jaber/LeetCode/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/AH-Jaber/LeetCode/tree/master/2427-number-of-common-factors) |
 | [2469-convert-the-temperature](https://github.com/AH-Jaber/LeetCode/tree/master/2469-convert-the-temperature) |
+| [2485-find-the-pivot-integer](https://github.com/AH-Jaber/LeetCode/tree/master/2485-find-the-pivot-integer) |
 | [2582-pass-the-pillow](https://github.com/AH-Jaber/LeetCode/tree/master/2582-pass-the-pillow) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AH-Jaber/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/AH-Jaber/LeetCode/tree/master/3232-find-if-digit-game-can-be-won) |
@@ -174,4 +175,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AH-Jaber/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Prefix Sum
+|  |
+| ------- |
+| [2485-find-the-pivot-integer](https://github.com/AH-Jaber/LeetCode/tree/master/2485-find-the-pivot-integer) |
 <!---LeetCode Topics End-->
