@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/AH-Jaber/LeetCode/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/AH-Jaber/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/AH-Jaber/LeetCode/tree/master/0342-power-of-four) |
+| [0492-construct-the-rectangle](https://github.com/AH-Jaber/LeetCode/tree/master/0492-construct-the-rectangle) |
 | [0877-stone-game](https://github.com/AH-Jaber/LeetCode/tree/master/0877-stone-game) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/AH-Jaber/LeetCode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/AH-Jaber/LeetCode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
