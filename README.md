@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0342-power-of-four](https://github.com/AH-Jaber/LeetCode/tree/master/0342-power-of-four) |
+| [0389-find-the-difference](https://github.com/AH-Jaber/LeetCode/tree/master/0389-find-the-difference) |
 | [1009-complement-of-base-10-integer](https://github.com/AH-Jaber/LeetCode/tree/master/1009-complement-of-base-10-integer) |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/AH-Jaber/LeetCode/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
 ## String
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/AH-Jaber/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/AH-Jaber/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0344-reverse-string](https://github.com/AH-Jaber/LeetCode/tree/master/0344-reverse-string) |
+| [0389-find-the-difference](https://github.com/AH-Jaber/LeetCode/tree/master/0389-find-the-difference) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/AH-Jaber/LeetCode/tree/master/2710-remove-trailing-zeros-from-a-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AH-Jaber/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Two Pointers
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/AH-Jaber/LeetCode/tree/master/0389-find-the-difference) |
 | [2578-split-with-minimum-sum](https://github.com/AH-Jaber/LeetCode/tree/master/2578-split-with-minimum-sum) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AH-Jaber/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/AH-Jaber/LeetCode/tree/master/3731-find-missing-elements) |
@@ -142,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AH-Jaber/LeetCode/tree/master/0001-two-sum) |
+| [0389-find-the-difference](https://github.com/AH-Jaber/LeetCode/tree/master/0389-find-the-difference) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AH-Jaber/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/AH-Jaber/LeetCode/tree/master/3731-find-missing-elements) |
 ## Greedy
