@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/AH-Jaber/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0204-count-primes](https://github.com/AH-Jaber/LeetCode/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/AH-Jaber/LeetCode/tree/master/0217-contains-duplicate) |
+| [0287-find-the-duplicate-number](https://github.com/AH-Jaber/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/AH-Jaber/LeetCode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0877-stone-game](https://github.com/AH-Jaber/LeetCode/tree/master/0877-stone-game) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/AH-Jaber/LeetCode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/AH-Jaber/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/AH-Jaber/LeetCode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/AH-Jaber/LeetCode/tree/master/0389-find-the-difference) |
 | [1009-complement-of-base-10-integer](https://github.com/AH-Jaber/LeetCode/tree/master/1009-complement-of-base-10-integer) |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AH-Jaber/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/AH-Jaber/LeetCode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AH-Jaber/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0287-find-the-duplicate-number](https://github.com/AH-Jaber/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/AH-Jaber/LeetCode/tree/master/0344-reverse-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AH-Jaber/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
@@ -168,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/AH-Jaber/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [1539-kth-missing-positive-number](https://github.com/AH-Jaber/LeetCode/tree/master/1539-kth-missing-positive-number) |
 ## Trie
 |  |
@@ -194,4 +198,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2485-find-the-pivot-integer](https://github.com/AH-Jaber/LeetCode/tree/master/2485-find-the-pivot-integer) |
 | [2574-left-and-right-sum-differences](https://github.com/AH-Jaber/LeetCode/tree/master/2574-left-and-right-sum-differences) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/AH-Jaber/LeetCode/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/AH-Jaber/LeetCode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
