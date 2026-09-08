@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/AH-Jaber/LeetCode/tree/master/0877-stone-game) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/AH-Jaber/LeetCode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/AH-Jaber/LeetCode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [2169-count-operations-to-obtain-zero](https://github.com/AH-Jaber/LeetCode/tree/master/2169-count-operations-to-obtain-zero) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/AH-Jaber/LeetCode/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2413-smallest-even-multiple](https://github.com/AH-Jaber/LeetCode/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/AH-Jaber/LeetCode/tree/master/2427-number-of-common-factors) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2169-count-operations-to-obtain-zero](https://github.com/AH-Jaber/LeetCode/tree/master/2169-count-operations-to-obtain-zero) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/AH-Jaber/LeetCode/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2582-pass-the-pillow](https://github.com/AH-Jaber/LeetCode/tree/master/2582-pass-the-pillow) |
 | [3701-compute-alternating-sum](https://github.com/AH-Jaber/LeetCode/tree/master/3701-compute-alternating-sum) |
