@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0492-construct-the-rectangle](https://github.com/AH-Jaber/LeetCode/tree/master/0492-construct-the-rectangle) |
 | [0877-stone-game](https://github.com/AH-Jaber/LeetCode/tree/master/0877-stone-game) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/AH-Jaber/LeetCode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/AH-Jaber/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/AH-Jaber/LeetCode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [2169-count-operations-to-obtain-zero](https://github.com/AH-Jaber/LeetCode/tree/master/2169-count-operations-to-obtain-zero) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/AH-Jaber/LeetCode/tree/master/2180-count-integers-with-even-digit-sum) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/AH-Jaber/LeetCode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/AH-Jaber/LeetCode/tree/master/0389-find-the-difference) |
 | [1009-complement-of-base-10-integer](https://github.com/AH-Jaber/LeetCode/tree/master/1009-complement-of-base-10-integer) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/AH-Jaber/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/AH-Jaber/LeetCode/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
 ## String
 |  |
