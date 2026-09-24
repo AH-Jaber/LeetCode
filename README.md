@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0674-longest-continuous-increasing-subsequence](https://github.com/AH-Jaber/LeetCode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0877-stone-game](https://github.com/AH-Jaber/LeetCode/tree/master/0877-stone-game) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/AH-Jaber/LeetCode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/AH-Jaber/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1539-kth-missing-positive-number](https://github.com/AH-Jaber/LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/AH-Jaber/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2574-left-and-right-sum-differences](https://github.com/AH-Jaber/LeetCode/tree/master/2574-left-and-right-sum-differences) |
