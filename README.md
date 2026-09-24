@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/AH-Jaber/LeetCode/tree/master/0342-power-of-four) |
 | [0492-construct-the-rectangle](https://github.com/AH-Jaber/LeetCode/tree/master/0492-construct-the-rectangle) |
 | [0877-stone-game](https://github.com/AH-Jaber/LeetCode/tree/master/0877-stone-game) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/AH-Jaber/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/AH-Jaber/LeetCode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/AH-Jaber/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/AH-Jaber/LeetCode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/AH-Jaber/LeetCode/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/AH-Jaber/LeetCode/tree/master/0389-find-the-difference) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/AH-Jaber/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/AH-Jaber/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1768-merge-strings-alternately](https://github.com/AH-Jaber/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/AH-Jaber/LeetCode/tree/master/2710-remove-trailing-zeros-from-a-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AH-Jaber/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -155,10 +157,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Euclidean Algorithm
 |  |
 | ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/AH-Jaber/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [2427-number-of-common-factors](https://github.com/AH-Jaber/LeetCode/tree/master/2427-number-of-common-factors) |
 ## Greatest Common Divisor
 |  |
 | ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/AH-Jaber/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [2427-number-of-common-factors](https://github.com/AH-Jaber/LeetCode/tree/master/2427-number-of-common-factors) |
 ## Matrix
 |  |
